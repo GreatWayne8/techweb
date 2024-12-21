@@ -4,7 +4,7 @@
 
 ## Overview  
 
-The “IT Company Website” is a modern, responsive website designed using HTML, CSS, Bootstrap, and JavaScript. It is optimized to function seamlessly across all devices, ensuring an excellent user experience. The website is tailored for an IT company offering services in **School Management Systems**, **Document Management Systems**, and **Data Recovery Solutions**.  
+The IT Company Website is a modern, responsive website designed using HTML, CSS, Bootstrap, and JavaScript. It is optimized to function seamlessly across all devices, ensuring an excellent user experience. The website is tailored for an IT company offering services in **School Management Systems**, **Document Management Systems**, and **Data Recovery Solutions**.  
 
 ### Key Features  
 - **School Management Systems**: Simplified tools for managing academic institutions, including student records, attendance, and performance tracking.  
