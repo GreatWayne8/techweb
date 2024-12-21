@@ -1,13 +1,58 @@
-# IT-Company-Website
+---
 
-## Overview
+# IT-Company-Website  
 
-The project “IT Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
+## Overview  
 
-## Website Link
+The “IT Company Website” is a modern, responsive website designed using HTML, CSS, Bootstrap, and JavaScript. It is optimized to function seamlessly across all devices, ensuring an excellent user experience. The website is tailored for an IT company offering services in **School Management Systems**, **Document Management Systems**, and **Data Recovery Solutions**.  
 
-Go check this website!!
-##
+### Key Features  
+- **School Management Systems**: Simplified tools for managing academic institutions, including student records, attendance, and performance tracking.  
+- **Document Management Systems**: Secure and efficient solutions for storing, organizing, and retrieving documents digitally.  
+- **Data Recovery Solutions**: Advanced services to recover lost or corrupted data across multiple platforms.  
 
-__NOTE: Please be aware that the PHP Mailer feature is not functional on the deployed website. To utilize it, you'll need to download the entire project and run it locally on your computer using XAMPP or WAMP.__
-__Additionally, you'll have to set up the sender's credentials in the 'mailing/mailingvariables.php' file. In the 'contactme.php' and 'careers.php' files, you should specify the receiver's email address. Don't forget to provide the path to the 'tmp-uploads' folder in 'careers.php' file to store uploaded files.__
+### Website Modules  
+The website includes the following modules to provide comprehensive information and functionality:  
+- **About**: Learn about the company's mission, vision, and values.  
+- **Services**: Detailed descriptions of all IT solutions offered.  
+- **Portfolio**: Showcase of past projects and accomplishments.  
+- **Team**: Meet the skilled professionals behind the company.  
+- **Career**: Opportunities to join the team, with an integrated application form.  
+- **Contact**: Easy-to-use contact form for inquiries.  
+- **FAQ**: Answers to common questions for better user understanding.  
+
+### Email Notification System  
+Whenever a user submits the **Contact** or **Career** form, an email notification is sent to the company’s designated email address. This ensures timely communication and efficient follow-up.  
+
+---
+
+## Deployment  
+
+### Website Link  
+
+
+### Note for Deployment  
+1. **PHP Mailer**:  
+   - The PHP Mailer feature is currently non-functional on the deployed version. To enable this feature:  
+     - Download the project and run it locally using XAMPP or WAMP.  
+     - Configure the sender's credentials in the `mailing/mailingvariables.php` file.  
+     - Specify the receiver's email address in the `contactme.php` and `careers.php` files.  
+     - Ensure the path to the `tmp-uploads` folder is set correctly in the `careers.php` file for file uploads.  
+
+2. **Local Setup**:  
+   - Clone the repository.  
+   - Set up a local server environment using XAMPP or WAMP.  
+   - Import the database if required for additional functionality.  
+
+---
+
+## Contributing  
+We welcome contributions to enhance the website's functionality and design. Please submit a pull request with detailed information about your proposed changes.  
+
+---
+
+## License  
+This project is licensed under the MIT License.  
+
+---
+
